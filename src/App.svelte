@@ -136,7 +136,7 @@
     </ul>
   </section>
 
-  <footer class="print-only">
+  <footer class="web-only">
     (See <a href={fullVersionLink} target="_blank" rel="noopener"
       >full version</a
     >
